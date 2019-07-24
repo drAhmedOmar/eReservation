@@ -1,0 +1,76 @@
+/*Start Rules*/
+body{
+    background-color: #fdfcfc
+}
+h1{
+    font-weight: bold;
+    margin: 15px 0;
+    color: #908e8e
+}
+table th{
+    background-color:#444;
+    color:#fff
+}
+/*End Rules*/
+/*Bootstrap*/
+.navbar-dark .navbar-brand{
+    color: #38fbfb;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 20px
+}
+/*Bootstarp*/
+/*Start Index Page*/
+.index-form h2{
+    margin-top: 90px;
+    margin-bottom: 15px;
+    color: #9c9c9c;
+    font-size: 35px
+}
+.Login-Form{
+    width: 440px;
+    height: 240px;
+    border: 1px solid #c3c1c1;
+    border-radius: 5px;
+    background-color: #e6e6e6;
+    padding: 15px;
+    margin: 30px auto;
+    overflow: hidden
+}
+/*End Index Page*/
+/*Start Dashboard Page*/
+.panel-3 .row > div{
+    height: 200px;
+}
+.panel-3 .row > div > div{
+    height: 100%
+}
+.panel-3 .cust-num,
+.panel-3 .sheep-num{
+    height: 100%;
+    background-color: #eee;
+    padding: 5px;
+    border: 1px solid #dedbdb;
+    border-radius: 3px
+}
+.panel-3 h3{
+    margin-bottom: 2px
+}
+.panel-3 .cust-num .fa-3x,
+.panel-3 .sheep-num .fa-3x{
+    font-size: 90px
+}
+.panel-3 .c-num{
+    font-size: 100px;
+    font-weight: bold;
+    padding: 13px
+}
+/*End Dashboard Page*/
+/*Start Customer Page*/
+.main-form{
+    border: 1px solid #e0dede;
+    padding: 30px 0 30px 20px;
+    margin-top: 40px;
+    width: 900px
+}
+/*End Customer Page*/
