@@ -17,7 +17,7 @@ if (isset($_SESSION['cost_name'])) {
         $type       = $_POST['type'];
         $cutting    = $_POST['cutting'];
        
-        //Upload Image Variables
+        //Upload Images Variables
         $image_name = $_FILES['image']['name'];
         $image_size = $_FILES['image']['size'];
         $image_tmp  = $_FILES['image']['tmp_name'];
